@@ -1,5 +1,6 @@
 # Power-Bi-dashboard-project
-Power Bi dashboard to find out meaningful insights on Hospital Emergency Room data
+Power Bi dashboard to find out meaningful insights on Hospital Emergency Room data.
+
 KPI’S Requirement
 
 Number of Patients:
